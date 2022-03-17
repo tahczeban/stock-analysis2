@@ -6,14 +6,17 @@ MODULE 2: VBA_Challenge.vbs
 
 IMAGE: obtained from: https://www.pngwing.com/en/search?q=stock+market
 
-
+_______________
 ***RESOURCES***
 
+_______________
 ***OVERVIEW***
 
+_____________
 ***RESULTS***
 
+______________
 ***SUMMARY***
 
-
+________________
 ***REFERENCES*** Google, BSC, StackOverflow, GitHub
