@@ -11,10 +11,9 @@ _______________
 
 
 _______________
-***OVERVIEW:*** This challenge was generated to Steve with a stock market analysis for his parents, green energy DAQU, while expandinig the dataset for the last few years. To augment this analysis, Steve will refactor to loop same information 
-refactoring  (not changing data, but making more efficient/less memory/improving logic of code)to loop through data to aquire same data,
-in a more efficient script run through
-written to present
+***OVERVIEW:*** This challenge was generated to assist Steve with a stock market analysis for his parents, green energy DAQU, while expandinig the dataset for the last few years. To augment this analysis, Steve will refactor to loop the same information to loop through data to aquire same data, hopefully,
+in a more efficient script run through. Refactoring in this case is defined as follows: not changing the data, but making the analysis more efficient, utilizing less memory, while improving the logic of the code.
+
 
 _____________
 ***RESULTS:***
