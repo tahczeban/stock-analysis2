@@ -34,25 +34,25 @@ In this deliverable, the Module2_VBA_Script will be refactored through date one 
 <img width="1066" alt="Clear Worksheet" src="https://user-images.githubusercontent.com/90135381/160297640-d1dad9b2-0173-4ce9-94b8-ad3dcfbd8898.png">
 
 
-                                      FIGURE 1: Clear Worksheet
+                                            FIGURE 1: Clear Worksheet
 
 
 <img width="1377" alt="Pop-up" src="https://user-images.githubusercontent.com/90135381/160297642-7baaccae-6553-47a0-984d-2c910e6af2fe.png">
 
 
-                                     FIGURE 2: Pop-up window
+                                            FIGURE 2: Pop-up window
 
 
 <img width="1240" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/90135381/160297644-2ee512f2-1ba5-413c-bd79-1f846a8395a9.png">
 
 
-                                    FIGURE 3: VBA Challenge 2017 PNG
+                                            FIGURE 3: VBA Challenge 2017 PNG
 
 
 <img width="1265" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/90135381/160297646-4ce973b0-70bb-4cc5-8fbb-0165bb2ac494.png">
 
 
-                                    FIGURE 4: VBA Challenge 2018 PNG
+                                            FIGURE 4: VBA Challenge 2018 PNG
 
 
 ***DELIVERQBLE 2: Written Analysis***
