@@ -11,8 +11,10 @@ _______________
 
 
 _______________
-***OVERVIEW:*** This challenge assist Steve with stock market analysis for his parents
-expandinig dataset, refactoring to loop through data to aquire same data, in a more efficient script runt hrough
+***OVERVIEW:*** This challenge assist Steve with stock market analysis for his parents, while expandinig the dataset for the last few year. Refactor to loop same information 
+refactoring  (not changing data, but making more efficient/less memory/improving logic of code)to loop through data to aquire same data,
+in a more efficient script runt hrough
+written to presset whatsup
 
 _____________
 ***RESULTS:***
@@ -27,8 +29,8 @@ In this deliverable, the Module2_VBA_Script will be refactored through date one 
 6. for loopthrough the following arrays: tickers, tickerVolumes, tickerStaringprices, tickerEndingPrices TO: Ticker/Total Daily Volume/Return on spreadsheet
 7 ==="popUP":elapsed time for 2017/2018
 
-***Deliverable 2: Written Analysis of Results...ENJOY!!!!***
-______________
+***DELIVERQBLE 2: Written Analysis***
+
 ***SUMMARY:***
 
 ________________
