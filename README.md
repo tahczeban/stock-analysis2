@@ -45,7 +45,7 @@ In this deliverable, the VBA_Script was refactored through date one time and the
 
 **-4:** a for loop was created to loop through the arrays from 1b to output the Ticker,” “Total Daily Volume,” and “Return” columns
 
-**-FINALLY** buttons were created for ease of vizualization of the results for 2017 and 2018, with an associated pop-up window and a clear worksheet option
+**-FINALLY** buttons were created for ease of vizualization of the results/elapsed run-time for 2017 and 2018, with an associated pop-up window and a clear worksheet option
 as illustrated in FIGURES: 1-4
 
 
