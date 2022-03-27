@@ -25,14 +25,29 @@ _____________
 
 ***DELIVERABLE 1: Refactoe VBA Code and Measure Performance*** 
 
-In this deliverable, the Module2_VBA_Script will be refactored through date one time and the data will be collected; hopefully faster and more efficiently via:
-1. tickerIndex:(+) volumes, astartingPrices, EndingPrices
-2. 'forloop to to loop rows
-3. increaase TickerVolumes in for loop
-4. if-then statement:last row  tickrIndex and Prices
-5. script for increasing tickerIndex/not matching previous roe
-6. for loopthrough the following arrays: tickers, tickerVolumes, tickerStaringprices, tickerEndingPrices TO: Ticker/Total Daily Volume/Return on spreadsheet
-7 ==="popUP":elapsed time for 2017/2018
+In this deliverable, the VBA_Script was refactored through date one time and the data was collected and displayed via:
+
+**-1a:** a tickerIndex variable was created and set to equal zero prior to looping through the rows
+
+**-1b:** 3 output arrays  (tickerVolumes/tickerStartingPrice/tickerEndingPrice) were created and separated into long and single data types
+
+**-2a:** a for loop was created to initialize the tickerVolumes to zero
+
+**-2b:** a for loop was created to loop over all rows/spreadsheet
+
+**-3a:** current tickerVolumes were increased and the tickerVolume was added to the current stock ticker (tickerIndex=index)
+
+**-3b:** the first row with selected tickerIndex was checked with an if-then statement and current starting price was added to tickerStartingPrices
+
+**-3c:** another if-then statement was created to check closing price to tickerEndingPrices
+
+**-3d:** a script was written to increase the tickerIndex if the following row's ticker doesn't match previous row
+
+**-4:** a for loop was created to loop through the arrays from 1b to output the Ticker,” “Total Daily Volume,” and “Return” columns
+
+**-FINALLY** buttons were created for ease of vizualization of the results for 2017 and 2018, with an associated pop-up window and a clear worksheet option
+as illustrated in FIGURES: 1-4
+
 
 <img width="1066" alt="Clear Worksheet" src="https://user-images.githubusercontent.com/90135381/160297640-d1dad9b2-0173-4ce9-94b8-ad3dcfbd8898.png">
 
