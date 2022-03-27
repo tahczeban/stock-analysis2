@@ -27,7 +27,7 @@ In this deliverable, the Module2_VBA_Script will be refactored through date one 
 6. for loopthrough the following arrays: tickers, tickerVolumes, tickerStaringprices, tickerEndingPrices TO: Ticker/Total Daily Volume/Return on spreadsheet
 7 ==="popUP":elapsed time for 2017/2018
 
-***DELIVErABLE 2: 
+***Deliverable 2: Written Analysis of Results...ENJOY!!!!***
 ______________
 ***SUMMARY:***
 
