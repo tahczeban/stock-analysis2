@@ -11,8 +11,7 @@ _______________
 
 
 _______________
-***OVERVIEW:*** This challenge assists Steve with stock market analysis for his parents, while expandinig the dataset for the last few years. 
-Refactor to loop same information 
+***OVERVIEW:*** This challenge assists Steve with stock market analysis for his parents, while expandinig the dataset for the last few years. To augment this analysis, Steve will refactor to loop same information 
 refactoring  (not changing data, but making more efficient/less memory/improving logic of code)to loop through data to aquire same data,
 in a more efficient script run through
 written to present
