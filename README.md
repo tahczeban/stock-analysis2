@@ -11,15 +11,17 @@ _______________
 
 
 _______________
-***OVERVIEW:*** This challenge assist Steve with stock market analysis for his parents, while expandinig the dataset for the last few year. Refactor to loop same information 
+***OVERVIEW:*** This challenge assists Steve with stock market analysis for his parents, while expandinig the dataset for the last few years. 
+Refactor to loop same information 
 refactoring  (not changing data, but making more efficient/less memory/improving logic of code)to loop through data to aquire same data,
-in a more efficient script runt hrough
-written to presset whatsup
+in a more efficient script run through
+written to present
 
 _____________
 ***RESULTS:***
 
 ***DELIVERABLE 1: Refactoe VBA Code and Measure Performance*** 
+
 In this deliverable, the Module2_VBA_Script will be refactored through date one time and the data will be collected; hopefully faster and more efficiently via:
 1. tickerIndex:(+) volumes, astartingPrices, EndingPrices
 2. 'forloop to to loop rows
@@ -30,6 +32,8 @@ In this deliverable, the Module2_VBA_Script will be refactored through date one 
 7 ==="popUP":elapsed time for 2017/2018
 
 ***DELIVERQBLE 2: Written Analysis***
+
+- repo with README
 
 ***SUMMARY:***
 
