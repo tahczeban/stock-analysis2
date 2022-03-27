@@ -75,25 +75,30 @@ as illustrated in FIGURES: 1-4
 
 ***DELIVERQBLE 2: Written Analysis***
 
-- repository with README:
+- repository with README: 
 
 ***SUMMARY:***
 
+-2017 demonstrated improved stock performance for manuy of the green stocks, especially Steve's parents', DQ
+-2018 demonstrated a decline in stock performance
+-the refactored code was faster for both years
+
 The **ADVANTAGES** of refactoring the code are: 
 
-- easier to interpret the code in smaller steps
+- easier for others to interpret the code in smaller steps
 - easier to see patterns in the code
-- can more readily find errors in the code
+- can more readily find errors/bugs in the code
+- runs the array faster
 
 The **DISADVANTAGES** of refactoring the code are: 
 
-- may not prove to be more efficient
-
+- may not prove to be more efficient in comparison to time of creating it (time-consuming)
+- may introduce new errors/bugs
+- data type is limited
 
 How do these pros and cons apply to refactoring the original VBA script?
 
-- can prove to organize/clean and declutter the original script
-
+In conclusiuon, Refactoring can prove to organize/clean and declutter the original script and make it more efficient and easier to re-use. On the flip side the ratio of time to complete refactoring to improved advantage time has to be worth the effort. Efficienncy of the new, refactored code has to be e=tested, in order to weigh the pros and cons. In this particular case, the time required to refactor the code did not make the few seconds of improved efficiency worth it.
 
 ________________
 ***REFERENCES:*** Google, BSC, StackOverflow, GitHub
