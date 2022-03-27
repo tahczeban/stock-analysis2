@@ -11,8 +11,7 @@ _______________
 
 
 _______________
-***OVERVIEW:*** This challenge assists Steve with stock market analysis for his parents
-green energy DAQU, while expandinig the dataset for the last few years. To augment this analysis, Steve will refactor to loop same information 
+***OVERVIEW:*** This challenge was generated to Steve with a stock market analysis for his parents, green energy DAQU, while expandinig the dataset for the last few years. To augment this analysis, Steve will refactor to loop same information 
 refactoring  (not changing data, but making more efficient/less memory/improving logic of code)to loop through data to aquire same data,
 in a more efficient script run through
 written to present
@@ -60,6 +59,9 @@ In this deliverable, the Module2_VBA_Script will be refactored through date one 
 - repo with README
 
 ***SUMMARY:***
-
+Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+Summary: In a summary statement, address the following questions.
+What are the advantages or disadvantages of refactoring code?
+How do these pros and cons apply to refactoring the original VBA script?
 ________________
 ***REFERENCES:*** Google, BSC, StackOverflow, GitHub
