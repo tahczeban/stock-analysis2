@@ -11,10 +11,12 @@ _______________
 
 
 _______________
-***OVERVIEW:*** This challenge was generated to assist Steve with a stock market analysis for his parents using the Stock Market Dataset, while expandinig the dataset for the last few years. To augment this analysis, Steve refactored the code to loop the same information in order to aquire same result, hopefully, in a more efficient script run through. Refactoring in this case is defined as follows: 
+***OVERVIEW:*** This challenge was generated to assist Steve with a stock market analysis for his parents using the VBS Stock Market Dataset, converting it to XLSM to, ultimately, expand the datset to the entire stock market over a period of years. To augment this analysis, Steve refactored the code to loop the same information in order to acquire the same result, hopefully, in a more efficient script run through, so that this can be applied to more stocks. Refactoring in this case is defined as follows: 
 
--not changing the data, but making the analysis more efficient
+-not changing the data, but making the analysis more efficient (run through the script faster/fewer steps)
+
 -utilizing less memory
+
 -while improving the logic of the code
 
 
