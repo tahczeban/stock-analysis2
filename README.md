@@ -75,12 +75,25 @@ as illustrated in FIGURES: 1-4
 
 ***DELIVERQBLE 2: Written Analysis***
 
-- repo with README
+- repository with README:
 
 ***SUMMARY:***
-Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
+
+The **ADVANTAGES** of refactoring the code are: 
+
+- easier to interpret the code in smaller steps
+- easier to see patterns in the code
+- can more readily find errors in the code
+
+The **DISADVANTAGES** of refactoring the code are: 
+
+- may not prove to be more efficient
+
+
 How do these pros and cons apply to refactoring the original VBA script?
+
+- can prove to organize/clean and declutter the original script
+
+
 ________________
 ***REFERENCES:*** Google, BSC, StackOverflow, GitHub
